@@ -1,0 +1,6 @@
+colorama==0.4.6
+iniconfig==2.0.0
+packaging==23.2
+pluggy==1.3.0
+pytest==7.4.3
+-e git+https://github.com/gordonbchen/PyCompiler.git@fbaa09792289835c1d565013041bcbe42051bbec#egg=UNKNOWN
